@@ -8,6 +8,6 @@
 
 
 
-### Eksperyment 2: Ograniczenie zasobów (cgroups)
+### 2: Ograniczenie zasobów
 * **Wykonane polecenie:** `systemd-run --user --scope -p MemoryMax=100M bash` a następnie obciążenie procesora komendą `yes > /dev/null`.
   <img width="1008" height="222" alt="изображение" src="https://github.com/user-attachments/assets/68c2d2a8-f0a8-4ba5-8d36-5595f1e126ae" />
