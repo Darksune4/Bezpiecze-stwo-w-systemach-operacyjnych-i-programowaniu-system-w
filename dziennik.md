@@ -14,6 +14,6 @@
   * Zapoznanie się z projektem i zebranie uczestników w grupie
   * Zapoznanie się ze specyfikacją techniczną projektu i wymaganiami
  
-* **Tydzień 2 (do 18.10):**
+* **Tydzień 2:**
   * Szczegółowy research filtru `seccomp` (Secure Computing Mode).
   * Wybór technologii dla głównego skryptu (Bash, Python lub C)
