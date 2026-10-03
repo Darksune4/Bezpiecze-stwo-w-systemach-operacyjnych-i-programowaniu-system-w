@@ -1,3 +1,5 @@
-# Bezpiecze-stwo-w-systemach-operacyjnych-i-programowaniu-system-w
-* Grupa 1
-  
+# Bezpieczenstwo w systemach operacyjnych i programowaniu systemow 
+  Semestr zimowy 2026/2027
+  Grupa 1
+
+
