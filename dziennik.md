@@ -7,3 +7,13 @@
 ### Eksperyment 2: Ograniczenie zasobów
 * **Wykonane polecenie:** `systemd-run --user --scope -p MemoryMax=100M bash` a następnie obciążenie procesora komendą `yes > /dev/null`.
   <img width="1008" height="222" alt="изображение" src="https://github.com/user-attachments/assets/68c2d2a8-f0a8-4ba5-8d36-5595f1e126ae" />
+
+### Plan prac na najbliższe 2 tygodnie
+
+* **Tydzień 1:**
+  * Zapoznanie się z projektem i zebranie uczestników w grupie
+  * Zapoznanie się ze specyfikacją techniczną projektu i wymaganiami
+ 
+* **Tydzień 2 (do 18.10):**
+  * Szczegółowy research filtru `seccomp` (Secure Computing Mode).
+  * Wybór technologii dla głównego skryptu (Bash, Python lub C)
