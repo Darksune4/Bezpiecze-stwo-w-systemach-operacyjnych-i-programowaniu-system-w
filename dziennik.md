@@ -4,7 +4,7 @@
 ## 1.Pierwszy eksperyment izolacyjny
 ### Eksperyment 1: Przestrzenie nazw 
 * **Wykonane polecenie:** `sudo unshare --pid --fork --mount-proc bash` oraz `ps aux`
-<img width="1006" height="197" alt="изображение" src="https://github.com/user-attachments/assets/ac54adfe-09cc-4caf-9504-2d11c5c7b18c" />
+  <img width="1006" height="197" alt="изображение" src="https://github.com/user-attachments/assets/ac54adfe-09cc-4caf-9504-2d11c5c7b18c" />
 
 
 
